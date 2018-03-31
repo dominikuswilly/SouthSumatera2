@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">South Sumatera</string>
+    <string name="navigation_drawer_open">Buka Navigasi</string>
+    <string name="navigation_drawer_close">Tutup Navigasi</string>
+    <string name="nav_header_desc">Navigasi atas</string>
+    <string name="destinasi_unggulan">Favorit</string>
+    <string name="action_settings">Pengaturan</string>
+    <string name="budaya">Budaya</string>
+    <string name="ampera_desc">Coming Soon</string>
+</resources>
